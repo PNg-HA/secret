@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T09:10:56.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="mnxj2EVUtyhHtUTbzh7u" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T09:17:49.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="L4A5mOqEx5DyegXnQ7H4" version="22.0.2" type="github">
   <diagram name="Page-1" id="xIUvEnthZl1T5XnJPliv">
     <mxGraphModel dx="3095" dy="1835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -434,22 +434,22 @@
         <mxCell id="mo6_ruxAR4N6sEVaPRu7-270" value="Trọng số B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="592.5" width="96" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="mo6_ruxAR4N6sEVaPRu7-271" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="mo6_ruxAR4N6sEVaPRu7-278" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mo6_ruxAR4N6sEVaPRu7-233" target="mo6_ruxAR4N6sEVaPRu7-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-572" y="552" as="sourcePoint" />
-            <mxPoint x="48" y="691" as="targetPoint" />
+            <mxPoint x="224" y="537" as="sourcePoint" />
+            <mxPoint x="274" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mo6_ruxAR4N6sEVaPRu7-272" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="mo6_ruxAR4N6sEVaPRu7-279" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mo6_ruxAR4N6sEVaPRu7-247">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-388.78" y="556" as="sourcePoint" />
-            <mxPoint x="665" y="932" as="targetPoint" />
+            <mxPoint x="-114.49995117187518" y="697.5000488281248" as="sourcePoint" />
+            <mxPoint x="-577.5000000000136" y="546.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mo6_ruxAR4N6sEVaPRu7-273" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="mo6_ruxAR4N6sEVaPRu7-280" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mo6_ruxAR4N6sEVaPRu7-254" target="mo6_ruxAR4N6sEVaPRu7-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190" y="551" as="sourcePoint" />
-            <mxPoint x="455" y="462" as="targetPoint" />
+            <mxPoint x="-64" y="665" as="sourcePoint" />
+            <mxPoint x="-14" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
