@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T08:11:59.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="3RajVGVL1tWG_HJ1KqqC" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:20:39.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="geswLvK4UktWl1LqDUo8" version="22.0.2" type="github">
   <diagram name="Page-1" id="xIUvEnthZl1T5XnJPliv">
-    <mxGraphModel dx="2503" dy="2311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2358" dy="2232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,13 +702,15 @@
           <mxGeometry x="-32" y="-28" width="183" height="485" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-157" value="SN Node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;horizontal=1;labelPosition=center;spacing=0;spacingTop=-12;" parent="1" vertex="1">
-          <mxGeometry x="211.25" y="676" width="60" height="60" as="geometry" />
+          <mxGeometry x="282" y="718" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qoiQ617PUECIjGR-wFXE-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qoiQ617PUECIjGR-wFXE-157" target="qoiQ617PUECIjGR-wFXE-158" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qoiQ617PUECIjGR-wFXE-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qoiQ617PUECIjGR-wFXE-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312" y="668" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-158" value="SWOP Node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;labelPosition=center;spacing=0;spacingLeft=0;spacingTop=0;spacingBottom=-9;" parent="1" vertex="1">
-          <mxGeometry x="211.25" y="600" width="60" height="60" as="geometry" />
+          <mxGeometry x="284.75" y="609" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-159" value="ML Node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="284.75" y="399" width="60" height="60" as="geometry" />
@@ -723,7 +725,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;strokeColor=#FF0080;" parent="1" vertex="1">
-          <mxGeometry x="26.75" y="685" width="847" height="64" as="geometry" />
+          <mxGeometry x="25.5" y="718.5" width="847" height="64" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-202" value="Private Blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="28.25" y="706.5" width="162" height="26" as="geometry" />
@@ -1038,7 +1040,7 @@
         <mxCell id="qoiQ617PUECIjGR-wFXE-385" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Internet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="3021" y="424.75" width="106" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ch4OO1c2IiI91v6Ac4fK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;strokeColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="27" y="370" width="852" height="209" as="geometry" />
         </mxCell>
         <mxCell id="ch4OO1c2IiI91v6Ac4fK-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-docker-128.png" vertex="1" parent="1">
@@ -1064,6 +1066,12 @@
             <mxPoint x="629" y="622" as="sourcePoint" />
             <mxPoint x="696" y="622" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ch4OO1c2IiI91v6Ac4fK-8" target="qoiQ617PUECIjGR-wFXE-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-8" value="SWCI Node" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;horizontal=1;labelPosition=center;spacing=0;spacingTop=-12;" vertex="1" parent="1">
+          <mxGeometry x="187.25" y="718" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
