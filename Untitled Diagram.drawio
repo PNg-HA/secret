@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T08:05:59.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="OCSZGGDbMcJJry1HG5Sp" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T08:11:59.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="3RajVGVL1tWG_HJ1KqqC" version="22.0.2" type="github">
   <diagram name="Page-1" id="xIUvEnthZl1T5XnJPliv">
-    <mxGraphModel dx="2297" dy="2199" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="2311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,7 +722,7 @@
         <mxCell id="qoiQ617PUECIjGR-wFXE-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qoiQ617PUECIjGR-wFXE-160" target="qoiQ617PUECIjGR-wFXE-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qoiQ617PUECIjGR-wFXE-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;" parent="1" vertex="1">
+        <mxCell id="qoiQ617PUECIjGR-wFXE-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;strokeColor=#FF0080;" parent="1" vertex="1">
           <mxGeometry x="26.75" y="685" width="847" height="64" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-202" value="Private Blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1006,7 +1006,7 @@
           <mxGeometry x="3034" y="668.25" width="79" height="43" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-367" value="Swarm Learning Framework&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="3199" y="709.75" width="595" height="97" as="geometry" />
+          <mxGeometry x="3199" y="709.75" width="595" height="103.25" as="geometry" />
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-368" value="Privatte&amp;nbsp;Blockchain network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="3202" y="769.75" width="589" height="31.5" as="geometry" />
@@ -1038,7 +1038,7 @@
         <mxCell id="qoiQ617PUECIjGR-wFXE-385" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Internet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="3021" y="424.75" width="106" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ch4OO1c2IiI91v6Ac4fK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;dashed=1;strokeColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="27" y="370" width="852" height="209" as="geometry" />
         </mxCell>
         <mxCell id="ch4OO1c2IiI91v6Ac4fK-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-docker-128.png" vertex="1" parent="1">
@@ -1049,6 +1049,21 @@
         </mxCell>
         <mxCell id="qoiQ617PUECIjGR-wFXE-215" value="Host 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="694.25" y="831" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-4" value="Shared Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="53.5" y="465" width="107" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-6" value="IPsec" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370.25" y="617.5" as="sourcePoint" />
+            <mxPoint x="437.25" y="617.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ch4OO1c2IiI91v6Ac4fK-7" value="IPsec" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629" y="622" as="sourcePoint" />
+            <mxPoint x="696" y="622" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
