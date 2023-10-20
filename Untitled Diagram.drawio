@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T15:03:37.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="5mLjNwX54JYAP4uecAg2" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T02:40:23.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="faWAK38AGXrXUA-CMVFv" version="22.0.5" type="github">
   <diagram name="Page-1" id="xIUvEnthZl1T5XnJPliv">
-    <mxGraphModel dx="2631" dy="2413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="2081" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,7 +1196,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tUkY2Le_fTtCbruJ4zBt-40" value="Đạt độ chính xác &lt;br&gt;đề ra" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tUkY2Le_fTtCbruJ4zBt-40" value="Đạt điều kiện dừng?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1037" y="1621" width="116" height="113" as="geometry" />
         </mxCell>
         <mxCell id="tUkY2Le_fTtCbruJ4zBt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tUkY2Le_fTtCbruJ4zBt-42" edge="1">
