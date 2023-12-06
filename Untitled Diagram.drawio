@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T14:16:24.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="V_Us42h_7vi3D3SQ3v4T" version="22.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T14:18:39.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="XGiUFCem23X_M0q4fm4L" version="22.1.6" type="github">
   <diagram name="Page-1" id="xIUvEnthZl1T5XnJPliv">
     <mxGraphModel dx="2395" dy="2579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1285,16 +1285,16 @@
             <mxPoint x="4269.3" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F2lKUnRmWCem4gdTf-mL-16" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="F2lKUnRmWCem4gdTf-mL-16" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4438.999273743017" y="671.75" width="106.59217877094972" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2lKUnRmWCem4gdTf-mL-17" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="F2lKUnRmWCem4gdTf-mL-17" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4662.489273743016" y="672.75" width="106.59217877094972" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2lKUnRmWCem4gdTf-mL-18" value="Edge 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4209.3136312849165" y="834.75" width="56" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F2lKUnRmWCem4gdTf-mL-19" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="F2lKUnRmWCem4gdTf-mL-19" value="NIDS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#9ebbff;strokeColor=#56517e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4215.999273743017" y="670.75" width="106.59217877094972" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2lKUnRmWCem4gdTf-mL-20" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
@@ -1330,7 +1330,7 @@
         <mxCell id="F2lKUnRmWCem4gdTf-mL-29" value="Privatte&amp;nbsp;Blockchain network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="4208" y="796" width="575" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="F2lKUnRmWCem4gdTf-mL-30" value="API Layer (Keras, Tensorflow, Pytorch)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0d1ff;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="F2lKUnRmWCem4gdTf-mL-30" value="API Layer (Keras, Tensorflow, Pytorch)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0d1ff;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="4208" y="761" width="575" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="F2lKUnRmWCem4gdTf-mL-32" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fillColor=none;" vertex="1" parent="1">
